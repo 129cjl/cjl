@@ -27,7 +27,7 @@ public class Test {
 
 
 
-        System.out.println("\"你好\" = " + "你好");
+        System.out.println("\"你好\" = " + "你                   好");
 
 
     }
